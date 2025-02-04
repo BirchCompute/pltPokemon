@@ -1,0 +1,595 @@
+Gen,notes,colors
+GEN 1 — Blended,"12 Bug-types in Gen 1.<!-- Of these 12, three are green, three are yellow, two are orange, two are purple, one is light-blue, and one is brown. This ratio produces this color.-->",#CFCA5D — #AD9350 — #8C5C43
+GEN 1 — Stadium,(notes),#C8F050 — #5E9E25 — #497B1E
+GEN 2 — Blended,22 Bug-types in Gen 2.,#CA8D53 — #AA6C4B — #8A4A43
+GEN 2 — Stadium 2,(notes),#50B482 — #42A55A
+GEN 3 — FRLG,(notes),#D8E030
+GEN 3 — Colosseum,(notes),#CED6A5 — #A5AD4A — #636B29
+GEN 3 — Ecks-Dee,(notes),#A5AD4A
+GEN 3-4 — RSE/DPP,(notes),#D8E030 — #A8B820 — #789010
+GEN 4 — DPP/HGSS,(notes),#D8E0C8 — #A0C888 — #789850
+GEN 4 — HGSS Attack,(notes),#d0c868 — #b09000 — #585008
+GEN 4 — Plate,Insect Plate,#F0F8B8 — #B8E070 — #789828
+GEN 5 — BW,(notes),#ADBD21 — #426B39
+GEN 5 — BW Gems,(notes),#E7EFB5 — #ACCD46 — #739400
+GEN 5 — BW Attack,(notes),#98a018 — #606010 — #383010
+GEN 5 — BW2 Attack,(notes),#98a018 — #606010 — #484810
+GEN 6 — XY-ORAS,(notes),#A0BB20
+GEN 7 — SM,(notes),#AABB22
+GEN 7 — SM-inium Z,(notes),#D5F6A4 — #7AD145 — #399C31
+GEN 8 — SwSh Profile,(notes),#ADD080 — #90C12D — #4D5441
+GEN 8 — SwSh Attack,(notes),#F4FEA5 — #ADDF4A
+GEN 8 — PokéHome Profile,(notes),#E3EFCD — #90C12D — #4D5441
+OTHER — PokéGo; Type icon,(notes),#ACC833 — #9AC42F — #8FC02C
+OTHER — PokéGo; Medal,(notes),#CDFC45 — #82CA0A — #379103
+OTHER — PMD; Type icon,(notes),#F4EB71 — #98AE5D — #385315
+OTHER — PMD; Larger icon,(notes),#F8F4B0 — #BDC23C — #667A04
+OTHER — Pokémon Conquest,(notes),#D6EF84 — #BDDE31 — #528421
+OTHER — Pokémon Rumble,(notes),#58CC8F
+OTHER — Pokédex 3D Pro,(notes),#28A62C — #159519 — #038206
+GEN 3-on — TMs,(notes),#E4F4D4 — #C5F0A2 — #A1EB6A
+GEN 8-on — TRs,(notes),#91C22C — #729922 — #5B7B1F
+"OTHER — Dex, US Site",(notes),#729F3F
+"OTHER — Dex, China Site",(notes),#46C846 — #32B432
+"OTHER — Dex, Korea Site",(notes),#A8B820 — #8E9B1B
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#XXXXXX
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#BE78BE — #955495
+GEN 3 — FRLG,(notes),#507888
+GEN 3 — Colosseum,(notes),#B5A59C — #735A4A — #423129
+GEN 3 — Ecks-Dee,(notes),#735A4A
+GEN 3-4 — RSE/DPP,(notes),#A8A878 — #705848 — #484038
+GEN 4 — DPP/HGSS,(notes),#B8B0A8 — #908888 — #686868
+GEN 4 — HGSS Attack,(notes),#a87078 — #605050 — #502830
+GEN 4 — Plate,Dread Plate,#A0C0E0 — #6484A4 — #405870
+GEN 5 — BW,(notes),#735A4A — #4A3931
+GEN 5 — BW Gems,(notes),#A5A5A5 — #414141 — #212121
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#705540
+GEN 7 — SM,(notes),#775544
+GEN 7 — SM-inium Z,(notes),#D5C5BD — #6A5266 — #413152
+GEN 8 — SwSh Profile,(notes),#908D96 — #5A5366 — #454449
+GEN 8 — SwSh Attack,(notes),#CDC4F3 — #A18DD5
+GEN 8 — PokéHome Profile,(notes),#D8D9D8 — #5A5366 — #454449
+OTHER — PokéGo; Type icon,(notes),#707785 — #636274 — #5A5264
+OTHER — PokéGo; Medal,(notes),#5A5C6E — #474056 — #342F44
+OTHER — PMD; Type icon,(notes),#DAE1E6 — #8E959A — #262737
+OTHER — PMD; Larger icon,(notes),#D2DDEB — #8E9EB4 — #606167
+OTHER — Pokémon Conquest,(notes),#846B4A — #6B5A42 — #5A4A39
+OTHER — Pokémon Rumble,(notes),#7082C5
+OTHER — Pokédex 3D Pro,(notes),#172E94 — #102584 — #031562
+GEN 3-on — TMs,(notes),#CCE4E4 — #94C2C5 — #519AA3
+GEN 8-on — TRs,(notes),#5A5365 — #50495C — #44404E
+"OTHER — Dex, US Site",(notes),#707070
+"OTHER — Dex, China Site",(notes),#787878 — #646464
+"OTHER — Dex, Korea Site",(notes),#705848 — #503E33
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#64DCC8 — #21A594 — #1E806C
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#46DC64 — #009400
+GEN 3 — FRLG,(notes),#6890F0 — #A86078 — #E83000
+GEN 3 — Colosseum,(notes),#B59CFF — #7339FF — #422194
+GEN 3 — Ecks-Dee,(notes),#7B52EF
+GEN 3-4 — RSE/DPP,(notes),#B8A0F8 — #7038F8 — #483890
+GEN 4 — DPP/HGSS,(notes),#6898F8 — #B084B4 — #F87070
+GEN 4 — HGSS Attack,(notes),#9078d8 — #5048c8 — #ZZZZZZ
+GEN 4 — Plate,Draco Plate,#F89098 — #BC545C — #803038
+GEN 5 — BW,(notes),#7B63E7 — #4A3994
+GEN 5 — BW Gems,(notes),#DEFFDE — #9473DA — #633973
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#7066E0
+GEN 7 — SM,(notes),#7766EE
+GEN 7 — SM-inium Z,(notes),#F6F6F6 — #109BAF — #295283
+GEN 8 — SwSh Profile,(notes),#7A99CF — #0A6DC4 — #364757
+GEN 8 — SwSh Attack,(notes),#90DCFE — #4B9FDD
+GEN 8 — PokéHome Profile,(notes),#C8DEEB — #0A6DC4 — #364757
+OTHER — PokéGo; Type icon,(notes),#0583BB — #0874BF — #0969C1
+OTHER — PokéGo; Medal,(notes),#3286CF — #166EBF — #0B528E
+OTHER — PMD; Type icon,(notes),#FFFF77 — #CDB247 — #665522
+OTHER — PMD; Larger icon,(notes),#FBFDA5 — #ECE322 — #CA9401
+OTHER — Pokémon Conquest,(notes),#9473CE — #8C73CE — #63528C
+OTHER — Pokémon Rumble,(notes),#16958B
+OTHER — Pokédex 3D Pro,(notes),#39AE99 — #269D88 — #148B76
+GEN 3-on — TMs,(notes),#CBE4FC — #9AB7E7 — #FFB584
+GEN 8-on — TRs,(notes),#096DC5 — #085AA2 — #0C4E88
+"OTHER — Dex, US Site",(notes),#53A4CF — #F16E57
+"OTHER — Dex, China Site",(notes),#5078DC — #3C64C8
+"OTHER — Dex, Korea Site",(notes),#7038F8 — #5F2CD4
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#F0F032 — #C6A529 — #947B1E
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#FFE600 — #BDAD00
+GEN 3 — FRLG,(notes),#F8B010
+GEN 3 — Colosseum,(notes),#FFE794 — #FFD631 — #947B18
+GEN 3 — Ecks-Dee,(notes),#FFCE31
+GEN 3-4 — RSE/DPP,(notes),#F8F878 — #F8D030 — #B8A038
+GEN 4 — DPP/HGSS,(notes),#F8F0D0 — #E0E000 — #B0A810
+GEN 4 — HGSS Attack,(notes),#f8e868 — #d0b800 — #806808
+GEN 4 — Plate,Zap Plate,#F8E888 — #ECB454 — #987030
+GEN 5 — BW,(notes),#FFC631 — #735218
+GEN 5 — BW Gems,(notes),#FFFFA5 — #F3DA00 — #BDA500
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#F0CC30
+GEN 7 — SM,(notes),#FFCC33
+GEN 7 — SM-inium Z,(notes),#FFFFF6 — #FAC004 — #D27E09
+GEN 8 — SwSh Profile,(notes),#F6DC85 — #F4D23C — #5D5841
+GEN 8 — SwSh Attack,(notes),#FEFF9B — #F4D23B
+GEN 8 — PokéHome Profile,(notes),#F7F2D0 — #F4D23C — #5D5841
+OTHER — PokéGo; Type icon,(notes),#FAE276 — #F6D954 — #F4D23B
+OTHER — PokéGo; Medal,(notes),#FEEB7B — #F8C62C — #C88302
+OTHER — PMD; Type icon,(notes),#FFFF00 — #A1AA00 — #333300
+OTHER — PMD; Larger icon,(notes),#FFFABD — #EFE61B — #B5A401
+OTHER — Pokémon Conquest,(notes),#FFEF7B — #EFE708 — #9C6B18
+OTHER — Pokémon Rumble,(notes),#FFCA00
+OTHER — Pokédex 3D Pro,(notes),#E3DE41 — #D4CE2E — #C0BB1C
+GEN 3-on — TMs,(notes),#FDF7B0 — #FCD349 — #FCC300
+GEN 8-on — TRs,(notes),#F1CF3A — #DDBF35 — #A38E2E
+"OTHER — Dex, US Site",(notes),#EED535
+"OTHER — Dex, China Site",(notes),#FFE100 — #E4B700
+"OTHER — Dex, Korea Site",(notes),#F8D030 — #D6B429
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#XXXXXX
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#XXXXXX — #XXXXXX
+GEN 3 — FRLG,(notes),#XXXXXX
+GEN 3 — Colosseum,(notes),#XXXXXX
+GEN 3 — Ecks-Dee,(notes),#XXXXXX
+GEN 3-4 — RSE/DPP,(notes),#XXXXXX — #XXXXXX — #XXXXXX
+GEN 4 — DPP/HGSS,(notes),#XXXXXX — #XXXXXX — #XXXXXX
+GEN 4 — HGSS Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 4 — Plate,Pixie Plate,#F8DFF8 — #F5BAD9 — #C171A2
+GEN 5 — BW,(notes),#XXXXXX — #XXXXXX
+GEN 5 — BW Gems,(notes),#FFF7FF — #D486B6 — #B73188
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#F0AAF0
+GEN 7 — SM,(notes),#FFAAFF
+GEN 7 — SM-inium Z,(notes),#FFF6FF — #FD89AA — #7B3941
+GEN 8 — SwSh Profile,(notes),#F2ADEC — #ED8FE6 — #5D4E5D
+GEN 8 — SwSh Attack,(notes),#FECAFE — #ED8FE7
+GEN 8 — PokéHome Profile,(notes),#F6E5F2 — #ED8FE6 — #5D4E5D
+OTHER — PokéGo; Type icon,(notes),#F5AAE5 — #EE99E2 — #EC8CE5
+OTHER — PokéGo; Medal,(notes),#F7ADE1 — #DC71BD — #BD4295
+OTHER — PMD; Type icon,(notes),#FFE5FF — #ED9FE1 — #774D6F
+OTHER — PMD; Larger icon,(notes),#XXXXXX — #XXXXXX — #XXXXXX
+OTHER — Pokémon Conquest,(notes),#XXXXXX — #XXXXXX — #XXXXXX
+OTHER — Pokémon Rumble,(notes),#XXXXXX
+OTHER — Pokédex 3D Pro,(notes),#XXXXXX — #000000 — #XXXXXX
+GEN 3-on — TMs,(notes),#E6CDEE — #BD84FF — #F794D6
+GEN 8-on — TRs,(notes),#ED8DE6 — #AF6BAA — #925D8E
+"OTHER — Dex, US Site",(notes),#FDB9E9
+"OTHER — Dex, China Site",(notes),#FFAFDC — #FF7EB8
+"OTHER — Dex, Korea Site",(notes),#EE99AC — #C96A7F
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#F09632 — #D66B29 — #B74923
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#DC825A — #DE7B39
+GEN 3 — FRLG,(notes),#E83000
+GEN 3 — Colosseum,(notes),#EFBDB5 — #C63129 — #731818
+GEN 3 — Ecks-Dee,(notes),#BD3131
+GEN 3-4 — RSE/DPP,(notes),#F08030 — #C03028 — #484038
+GEN 4 — DPP/HGSS,(notes),#F8A8A8 — #F87070 — #D04040
+GEN 4 — HGSS Attack,(notes),#f8b070 — #e06000 — #783000
+GEN 4 — Plate,Fist Plate,#F8B8A0 — #D47C64 — #984838
+GEN 5 — BW,(notes),#A55239 — #4A3931
+GEN 5 — BW Gems,(notes),#FFDED6 — #A85E7B — #632939
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#B05540
+GEN 7 — SM,(notes),#BB5544
+GEN 7 — SM-inium Z,(notes),#FFF6D5 — #FF8F30 — #BD4118
+GEN 8 — SwSh Profile,(notes),#D98698 — #CE406A — #584048
+GEN 8 — SwSh Attack,(notes),#FEB0D0 — #E46A93
+GEN 8 — PokéHome Profile,(notes),#F0D5D9 — #CE406A — #584048
+OTHER — PokéGo; Type icon,(notes),#E5444B — #D7425E — #CE3F6A
+OTHER — PokéGo; Medal,(notes),#FA928E — #DF4F5E — #AB2F2A
+OTHER — PMD; Type icon,(notes),#FFEEDD — #F0732B — #552200
+OTHER — PMD; Larger icon,(notes),#FFE0CD — #FE9459 — #F05C0C
+OTHER — Pokémon Conquest,(notes),#EFAD21 — #A56331 — #7B4A31
+OTHER — Pokémon Rumble,(notes),#F0371C
+OTHER — Pokédex 3D Pro,(notes),#DB3C3D — #CF2D2D — #B91718
+GEN 3-on — TMs,(notes),#F4D4BB — #ECAB6A — #E37A0C
+GEN 8-on — TRs,(notes),#CF406A — #A43557 — #8B314D
+"OTHER — Dex, US Site",(notes),#D56723
+"OTHER — Dex, China Site",(notes),#DC6900 — #C85500
+"OTHER — Dex, Korea Site",(notes),#C03028 — #A32822
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#F06464 — #CE3131 — #A82C2C
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#F0781E — #FF2900
+GEN 3 — FRLG,(notes),#F08030
+GEN 3 — Colosseum,(notes),#FFD6BD — #F78431 — #8C4A18
+GEN 3 — Ecks-Dee,(notes),#F77B31
+GEN 3-4 — RSE/DPP,(notes),#F8D030 — #F08030 — #C03028
+GEN 4 — DPP/HGSS,(notes),#F8C090 — #F89030 — #C06820
+GEN 4 — HGSS Attack,(notes),#f88870 — #e01810 — #ZZZZZZ
+GEN 4 — Plate,Flame Plate,#F89898 — #E8544C — #A00808
+GEN 5 — BW,(notes),#F75231 — #732108
+GEN 5 — BW Gems,(notes),#F8F8E8 — #F4683C — #B01800
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#F04420
+GEN 7 — SM,(notes),#FF4422
+GEN 7 — SM-inium Z,(notes),#FFF6D5 — #FD5551 — #A41010
+GEN 8 — SwSh Profile,(notes),#FFB68D — #FF9C54 — #5F4F47
+GEN 8 — SwSh Attack,(notes),#FDE0A9 — #FE9D54
+GEN 8 — PokéHome Profile,(notes),#F9E7D5 — #FF9C54 — #5F4F47
+OTHER — PokéGo; Type icon,(notes),#FFAF4A — #FFA550 — #FF9B54
+OTHER — PokéGo; Medal,(notes),#FDDB52 — #FE9A24 — #D85901
+OTHER — PMD; Type icon,(notes),#FFD49F — #FF6D14 — #441100
+OTHER — PMD; Larger icon,(notes),#FFE4BC — #FEA442 — #F42104
+OTHER — Pokémon Conquest,(notes),#FFB594 — #F7736B — #AD3900
+OTHER — Pokémon Rumble,(notes),#F7941D
+OTHER — Pokédex 3D Pro,(notes),#E37C45 — #D36A31 — #C05820
+GEN 3-on — TMs,(notes),#FDE4BB — #FCC772 — #ECAB21
+GEN 8-on — TRs,(notes),#FD9C52 — #CC7F44 — #A1673A
+"OTHER — Dex, US Site",(notes),#FD7D24
+"OTHER — Dex, China Site",(notes),#FF6900 — #FF3700
+"OTHER — Dex, Korea Site",(notes),#F08030 — #CD6B26
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#5096F0 — #426BE7 — #2C3FB7
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#6E8CFF — #0063F7
+GEN 3 — FRLG,(notes),#98D8D8 — #A0C0A8 — #A8A878
+GEN 3 — Colosseum,(notes),#D6C6F7 — #AD94F7 — #63528C
+GEN 3 — Ecks-Dee,(notes),#AD94EF
+GEN 3-4 — RSE/DPP,(notes),#C8C0F8 — #A890F0 — #705898
+GEN 4 — DPP/HGSS,(notes),#B8E8F8 — #58C8F0 — #30A0B8
+GEN 4 — HGSS Attack,(notes),#78a8f8 — #0050e0 — #ZZZZZZ
+GEN 4 — Plate,Sky Plate,#78F0F8 — #3CB4EC — #207898
+GEN 5 — BW,(notes),#9CADF7 — #425294
+GEN 5 — BW Gems,(notes),#EFFFFF — #ACBDFB — #425294
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#6099F0
+GEN 7 — SM,(notes),#6699FF
+GEN 7 — SM-inium Z,(notes),#D5FFFF — #0897E6 — #184AB4
+GEN 8 — SwSh Profile,(notes),#AEBDE4 — #8FA8DD — #4D5259
+GEN 8 — SwSh Attack,(notes),#C5DCFE — #8FB5E6
+GEN 8 — PokéHome Profile,(notes),#E3EAF0 — #8FA8DD — #4D5259
+OTHER — PokéGo; Type icon,(notes),#A7C1EF — #99B3E5 — #8EA7DD
+OTHER — PokéGo; Medal,(notes),#97B1F9 — #738ED9 — #505EAE
+OTHER — PMD; Type icon,(notes),#EBF5CE — #56B8E6 — #237595
+OTHER — PMD; Larger icon,(notes),#FAFEDB — #80E4CF — #03B4D0
+OTHER — Pokémon Conquest,(notes),#D6E7FF — #ADC6F7 — #4A63C6
+OTHER — Pokémon Rumble,(notes),#63C6FF
+OTHER — Pokédex 3D Pro,(notes),#45DBD5 — #32CBC6 — #20B9B3
+GEN 3-on — TMs,(notes),#D4F5FE — #A4E9FA — #C2C2C2
+GEN 8-on — TRs,(notes),#8FA9DF — #7283AA — #5B6887
+"OTHER — Dex, US Site",(notes),#3DC7EF — #BDB9B8
+"OTHER — Dex, China Site",(notes),#78DCFF — #79BCD7
+"OTHER — Dex, Korea Site",(notes),#A890F0 — #896AE8
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#DCC8F0 — #A468B4 — #7B678F
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#A06EDC — #8A58FD
+GEN 3 — FRLG,(notes),#A040A0
+GEN 3 — Colosseum,(notes),#B5ADCE — #735A9C — #42315A
+GEN 3 — Ecks-Dee,(notes),#735A94
+GEN 3-4 — RSE/DPP,(notes),#A890F0 — #705898 — #483850
+GEN 4 — DPP/HGSS,(notes),#D0B0F8 — #A870F8 — #7858B0
+GEN 4 — HGSS Attack,(notes),#c830a0 — #703860 — #482840
+GEN 4 — Plate,Spooky Plate,#C8C8D8 — #8C8C9C — #606068
+GEN 5 — BW,(notes),#6363B5 — #4A3952
+GEN 5 — BW Gems,(notes),#8888E0 — #5C48A8 — #202850
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#6066B0
+GEN 7 — SM,(notes),#6666BB
+GEN 7 — SM-inium Z,(notes),#FFF6F6 — #B77AAC — #7B4A83
+GEN 8 — SwSh Profile,(notes),#8E97BE — #5369AC — #454855
+GEN 8 — SwSh Attack,(notes),#B5C5FF — #8293D8
+GEN 8 — PokéHome Profile,(notes),#D7DDE6 — #5369AC — #454855
+OTHER — PokéGo; Type icon,(notes),#7C73D8 — #646EBF — #5368AB
+OTHER — PokéGo; Medal,(notes),#C1AAF0 — #937EDD — #6F4AB7
+OTHER — PMD; Type icon,(notes),#ECC2FF — #9844C8 — #4B076E
+OTHER — PMD; Larger icon,(notes),#F3CAFC — #CD48EA — #A605D8
+OTHER — Pokémon Conquest,(notes),#849CD6 — #5263A5 — #52528C
+OTHER — Pokémon Rumble,(notes),#A55AA8
+OTHER — Pokédex 3D Pro,(notes),#BE69DA — #AE57CB — #9B44B8
+GEN 3-on — TMs,(notes),#EAD6F5 — #D79FF4 — #B362DB
+GEN 8-on — TRs,(notes),#5269AC — #435284 — #39466B
+"OTHER — Dex, US Site",(notes),#7B62A3
+"OTHER — Dex, China Site",(notes),#A08CFF — #8C78F0
+"OTHER — Dex, Korea Site",(notes),#705898 — #5B477C
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#64C864 — #22AD22 — #1E8A1E
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#82DC50 — #00B000
+GEN 3 — FRLG,(notes),#78C850
+GEN 3 — Colosseum,(notes),#D6EFC6 — #7BCE52 — #224411
+GEN 3 — Ecks-Dee,(notes),#7BC652
+GEN 3-4 — RSE/DPP,(notes),#C0F860 — #78C850 — #588040
+GEN 4 — DPP/HGSS,(notes),#D8F0C0 — #90E880 — #58B848
+GEN 4 — HGSS Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 4 — Plate,Meadow Plate,#B0F898 — #68D050 — #487838
+GEN 5 — BW,(notes),#7BCE52 — #426B39
+GEN 5 — BW Gems,(notes),#EFFFE7 — #52E666 — #009431
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#70CC50
+GEN 7 — SM,(notes),#77CC55
+GEN 7 — SM-inium Z,(notes),#EEFFD5 — #41B80C — #316A39
+GEN 8 — SwSh Profile,(notes),#94CC8F — #63BB5B — #455449
+GEN 8 — SwSh Attack,(notes),#D0FEC0 — #7ED878
+GEN 8 — PokéHome Profile,(notes),#DAEDD6 — #63BB5B — #455449
+OTHER — PokéGo; Type icon,(notes),#58C47E — #5EBD62 — #5FB952
+OTHER — PokéGo; Medal,(notes),#6DF2B5 — #31AF63 — #0C7356
+OTHER — PMD; Type icon,(notes),#C4FFCC — #79E17C — #14761A
+OTHER — PMD; Larger icon,(notes),#D2FCCC — #55EF40 — #18B202
+OTHER — Pokémon Conquest,(notes),#73CE00 — #73C64A — #4A7B39
+OTHER — Pokémon Rumble,(notes),#8DC63F
+OTHER — Pokédex 3D Pro,(notes),#46E440 — #32D42E — #21C11B
+GEN 3-on — TMs,(notes),#D3F4E4 — #A6F0C7 — #6AECA3
+GEN 8-on — TRs,(notes),#62BD5A — #51994B — #4A8445
+"OTHER — Dex, US Site",(notes),#9BCC50
+"OTHER — Dex, China Site",(notes),#B4F000 — #92BF19
+"OTHER — Dex, Korea Site",(notes),#78C850 — #66AB44
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#F0C878 — #9C7B42 — #76672C
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#DCAA1E — #AD6402
+GEN 3 — FRLG,(notes),#D8E030 — #C8C034 — #B8A038
+GEN 3 — Colosseum,(notes),#F7EFCE — #E7C66B — #846B39
+GEN 3 — Ecks-Dee,(notes),#E7BD6B
+GEN 3-4 — RSE/DPP,(notes),#F8F878 — #E0C068 — #886830
+GEN 4 — DPP/HGSS,(notes),#E0E000 — #D4C024 — #C8A048
+GEN 4 — HGSS Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 4 — Plate,Earth Plate,#E0B890 — #AC845C — #805840
+GEN 5 — BW,(notes),#D6B55A — #735218
+GEN 5 — BW Gems,(notes),#E7C684 — #B1772D — #6B3910
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#D0BB50
+GEN 7 — SM,(notes),#DDBB55
+GEN 7 — SM-inium Z,(notes),#FFF6DE — #EA7635 — #9C3939
+GEN 8 — SwSh Profile,(notes),#E19F87 — #D97745 — #594A45
+GEN 8 — SwSh Attack,(notes),#FEC99A — #F3915E
+GEN 8 — PokéHome Profile,(notes),#F2E0D2 — #D97745 — #594A45
+OTHER — PokéGo; Type icon,(notes),#D49A6C — #D78656 — #D97644
+OTHER — PokéGo; Medal,(notes),#DD974D — #CD6F33 — #A94307
+OTHER — PMD; Type icon,(notes),#FFDDA2 — #DEAE73 — #875E21
+OTHER — PMD; Larger icon,(notes),#FCD9AD — #EF9831 — #C4671D
+OTHER — Pokémon Conquest,(notes),#DECE63 — #B59C5A — #846329
+OTHER — Pokémon Rumble,(notes),#BD8C5C
+OTHER — Pokédex 3D Pro,(notes),#987339 — #876125 — #754E13
+GEN 3-on — TMs,(notes),#FDFDB0 — #F8F459 — #DBC341
+GEN 8-on — TRs,(notes),#D47543 — #C36B3F — #915335
+"OTHER — Dex, US Site",(notes),#F7DE3F — #AB9842
+"OTHER — Dex, China Site",(notes),#FAC85A — #CCA142
+"OTHER — Dex, Korea Site",(notes),#E0C068 — #BEA254
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#B4F0F0 — #5AADC6 — #3FA3A3
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#6ED2D2 — #00B5AD
+GEN 3 — FRLG,(notes),#98D8D8
+GEN 3 — Colosseum,(notes),#CEEFEF — #9CDEDE — #5A7B7B
+GEN 3 — Ecks-Dee,(notes),#9CD6DE
+GEN 3-4 — RSE/DPP,(notes),#D0F8E8 — #98D8D8 — #9090A0
+GEN 4 — DPP/HGSS,(notes),#C0F8F8 — #30D8D0 — #389888
+GEN 4 — HGSS Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 4 — Plate,Icicle Plate,#E8F8F8 — #A8D8D8 — #408078
+GEN 5 — BW,(notes),#5ACEE7 — #425294
+GEN 5 — BW Gems,(notes),#ADFFFF — #4EE2F7 — #009CCE
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#70DDF0
+GEN 7 — SM,(notes),#77DDFF
+GEN 7 — SM-inium Z,(notes),#ACF6EE — #76C0FA — #1062BD
+GEN 8 — SwSh Profile,(notes),#9CDACD — #73CEC0 — #475757
+GEN 8 — SwSh Attack,(notes),#CBFEFE — #87E3D4
+GEN 8 — PokéHome Profile,(notes),#DDF1EA — #73CEC0 — #475757
+OTHER — PokéGo; Type icon,(notes),#94DDD9 — #7ED3C8 — #72CEBF
+OTHER — PokéGo; Medal,(notes),#85ECE9 — #52BFC0 — #007B83
+OTHER — PMD; Type icon,(notes),#98F7FF — #60C4CD — #114D57
+OTHER — PMD; Larger icon,(notes),#A3F6F8 — #49E3E4 — #31C3BA
+OTHER — Pokémon Conquest,(notes),#ADF7F7 — #73C6CE — #297BC6
+OTHER — Pokémon Rumble,(notes),#76E4FF
+OTHER — Pokédex 3D Pro,(notes),#8FD0F2 — #7EC0E2 — #6BAED0
+GEN 3-on — TMs,(notes),#E4F4FC — #B5F0FD — #82D3EC
+GEN 8-on — TRs,(notes),#73CFC1 — #5BA096 — #467872
+"OTHER — Dex, US Site",(notes),#51C4E7 — #51C4E7
+"OTHER — Dex, China Site",(notes),#14F5FF — #00B7EE
+"OTHER — Dex, Korea Site",(notes),#98D8D8 — #7CB4B4
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#F0F0F0 — #A7A7A7 — #848484
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#FFFFFF — #9B9B9B
+GEN 3 — FRLG,(notes),#A8A878
+GEN 3 — Colosseum,(notes),#D6D6BD — #ADAD7B — #636342
+GEN 3 — Ecks-Dee,(notes),#ADA57B
+GEN 3-4 — RSE/DPP,(notes),#D8D8C0 — #A8A878 — #705848
+GEN 4 — DPP/HGSS,(notes),#E8E8D8 — #B8B8A8 — #989078
+GEN 4 — HGSS Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 4 — Plate,Average of all plates,#DAD1C9 — #AA9B96 — #745F5F
+GEN 5 — BW,(notes),#ADA594 — #525252
+GEN 5 — BW Gems,(notes),#F7D6D6 — #D6B9B9 — #949494
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#B0BBA0
+GEN 7 — SM,(notes),#BBBBAA
+GEN 7 — SM-inium Z,(notes),#DEE6EE — #A4C0C4 — #52737B
+GEN 8 — SwSh Profile,(notes),#ACB4B7 — #9099A1 — #4D4E51
+GEN 8 — SwSh Attack,(notes),#FFFFFF — #D1DAE2
+GEN 8 — PokéHome Profile,(notes),#E3E7E4 — #9099A1 — #4D4E51
+OTHER — PokéGo; Type icon,(notes),#AAA79E — #999EA0 — #8F98A0
+OTHER — PokéGo; Medal,(notes),#A3A4A0 — #7C8082 — #525455
+OTHER — PMD; Type icon,(notes),#E6FFDB — #91F05F — #44802B
+OTHER — PMD; Larger icon,(notes),#E6FBDB — #B8EB9C — #A2C773
+OTHER — Pokémon Conquest,(notes),#EFE7E7 — #A5A5A5 — #5A5A5A
+OTHER — Pokémon Rumble,(notes),#D1D1D1
+OTHER — Pokédex 3D Pro,(notes),#D3D3D3 — #C3C3C3 — #B0B0B0
+GEN 3-on — TMs,(notes),#EBEBEE — #D6D6D6 — #C3C3C3
+GEN 8-on — TRs,(notes),#9098A1 — #797F86 — #596264
+"OTHER — Dex, US Site",(notes),#A4ACAF — #A4ACAF
+"OTHER — Dex, China Site",(notes),#DCDCDC — #A0A0A0
+"OTHER — Dex, Korea Site",(notes),#A8A878 — #959569
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#C896F0 — #AD4AE7 — #8531BC
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#E68CE6 — #C65ACE
+GEN 3 — FRLG,(notes),#F85888 — #CC4C94 — #A040A0
+GEN 3 — Colosseum,(notes),#CE9CCE — #A542A5 — #5A215A
+GEN 3 — Ecks-Dee,(notes),#A5429C
+GEN 3-4 — RSE/DPP,(notes),#D880B8 — #A040A0 — #483850
+GEN 4 — DPP/HGSS,(notes),#F0D0F8 — #E090F8 — #B848E0
+GEN 4 — HGSS Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 4 — Plate,Toxic Plate,#F0B0F8 — #B474EC — #8048C0
+GEN 5 — BW,(notes),#B55AA5 — #4A3952
+GEN 5 — BW Gems,(notes),#EFFFE7 — #83679C — #294A4A
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#A05590
+GEN 7 — SM,(notes),#AA5599
+GEN 7 — SM-inium Z,(notes),#F6DEF6 — #B872E5 — #6A39A4
+GEN 8 — SwSh Profile,(notes),#BE98D5 — #AB6AC8 — #504858
+GEN 8 — SwSh Attack,(notes),#F6BEFD — #C685E3
+GEN 8 — PokéHome Profile,(notes),#E9DDEC — #AB6AC8 — #504858
+OTHER — PokéGo; Type icon,(notes),#C95FD6 — #B563CD — #A465C7
+OTHER — PokéGo; Medal,(notes),#EBA2E2 — #DB60CA — #AE329E
+OTHER — PMD; Type icon,(notes),#FAC2EE — #D94AC0 — #7A1469
+OTHER — PMD; Larger icon,(notes),#FB81D6 — #F142BD — #C9288E
+OTHER — Pokémon Conquest,(notes),#DE9CEF — #BD63CE — #6B427B
+OTHER — Pokémon Rumble,(notes),#A181C3
+OTHER — Pokédex 3D Pro,(notes),#9A3CDA — #892ACB — #7617B8
+GEN 3-on — TMs,(notes),#FCDCC3 — #F8B088 — #B362DB
+GEN 8-on — TRs,(notes),#AA6AC8 — #8C58A4 — #724B84
+"OTHER — Dex, US Site",(notes),#B97FC9 — #B97FC9
+"OTHER — Dex, China Site",(notes),#D28CD2 — #BE78BE
+"OTHER — Dex, Korea Site",(notes),#A040A0 — #843484
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#F08CB4 — #CE529C — #A83A76
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#D282A0 — #D66B94
+GEN 3 — FRLG,(notes),#F85888
+GEN 3 — Colosseum,(notes),#FFA5C6 — #FF5A8C — #94314A
+GEN 3 — Ecks-Dee,(notes),#EF638C
+GEN 3-4 — RSE/DPP,(notes),#F8C0B0 — #F85888 — #906060
+GEN 4 — DPP/HGSS,(notes),#F898D8 — #F838A8 — #C02888
+GEN 4 — HGSS Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 4 — Plate,Mind Plate,#F8E8E8 — #E8A0A0 — #C06060
+GEN 5 — BW,(notes),#FF73A5 — #6B3939
+GEN 5 — BW Gems,(notes),#FFDED6 — #EA52A0 — #73006B
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#F05590
+GEN 7 — SM,(notes),#FF5599
+GEN 7 — SM-inium Z,(notes),#FFF6F6 — #FF7AB0 — #B42983
+GEN 8 — SwSh Profile,(notes),#FA9C9D — #F97177 — #5D484D
+GEN 8 — SwSh Attack,(notes),#FCD5E3 — #FE8A90
+GEN 8 — PokéHome Profile,(notes),#F8DFDC — #F97177 — #5D484D
+OTHER — PokéGo; Type icon,(notes),#FFA69B — #FA8383 — #F86C73
+OTHER — PokéGo; Medal,(notes),#FE9489 — #F3585E — #C61224
+OTHER — PMD; Type icon,(notes),#FEA7F7 — #C666BA — #6C2765
+OTHER — PMD; Larger icon,(notes),#FACEF6 — #F38DF0 — #E058D5
+OTHER — Pokémon Conquest,(notes),#FFADCE — #E773A5 — #94428C
+OTHER — Pokémon Rumble,(notes),#F784B6
+OTHER — Pokédex 3D Pro,(notes),#E9A2EA — #DA91DB — #C67EC7
+GEN 3-on — TMs,(notes),#FCE4E4 — #FCCBC7 — #FCABA3
+GEN 8-on — TRs,(notes),#F77075 — #D35F63 — #A74F54
+"OTHER — Dex, US Site",(notes),#F366B9 — #F366B9
+"OTHER — Dex, China Site",(notes),#F08CDC — #DC79C9
+"OTHER — Dex, Korea Site",(notes),#F85888 — #D74B75
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#64B4B4 — #527B7B — #3F7171
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#C88C32 — #8C5A31
+GEN 3 — FRLG,(notes),#B8A038
+GEN 3 — Colosseum,(notes),#CEC6A5 — #A5944A — #5A5229
+GEN 3 — Ecks-Dee,(notes),#A5944A
+GEN 3-4 — RSE/DPP,(notes),#E0C068 — #B8A038 — #886830
+GEN 4 — DPP/HGSS,(notes),#D8C890 — #C8A048 — #907838
+GEN 4 — HGSS Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 4 — Plate,Stone Plate,#F0E8C0 — #C4B48C — #887050
+GEN 5 — BW,(notes),#BDA55A — #735218
+GEN 5 — BW Gems,(notes),#EFE7CE — #A4836A — #524231
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#B0AA60
+GEN 7 — SM,(notes),#BBAA66
+GEN 7 — SM-inium Z,(notes),#FFF6DE — #AC8B72 — #734A31
+GEN 8 — SwSh Profile,(notes),#D3C8A8 — #C7B78B — #55544D
+GEN 8 — SwSh Attack,(notes),#F0E6A9 — #C8B78B
+GEN 8 — PokéHome Profile,(notes),#EEEDE0 — #C7B78B — #55544D
+OTHER — PokéGo; Type icon,(notes),#D7CD92 — #CEC08E — #C7B68A
+OTHER — PokéGo; Medal,(notes),#DBD184 — #AAA16A — #827938
+OTHER — PMD; Type icon,(notes),#FFEE7F — #E4C410 — #4E4400
+OTHER — PMD; Larger icon,(notes),#FAF6BF — #EBDB46 — #C6AD06
+OTHER — Pokémon Conquest,(notes),#D6C652 — #B59C5A — #6B5A39
+OTHER — Pokémon Rumble,(notes),#9EA0A1
+OTHER — Pokédex 3D Pro,(notes),#949494 — #828282 — #707070
+GEN 3-on — TMs,(notes),#F1E9D1 — #E0CB82 — #D3B341
+GEN 8-on — TRs,(notes),#C6B88B — #A39773 — #7D755D
+"OTHER — Dex, US Site",(notes),#A38C21
+"OTHER — Dex, China Site",(notes),#B48C64 — #A07850
+"OTHER — Dex, Korea Site",(notes),#B8A038 — #9C882E
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#XXXXXX
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#78AABE — #427B94
+GEN 3 — FRLG,(notes),#A8A878 — #7C9080 — #507888
+GEN 3 — Colosseum,(notes),#DEDEE7 — #BDBDD6 — #73737B
+GEN 3 — Ecks-Dee,(notes),#BDBDCE
+GEN 3-4 — RSE/DPP,(notes),#D8D8C0 — #B8B8D0 — #807870
+GEN 4 — DPP/HGSS,(notes),#E8E8E8 — #B8B8D0 — #9090B0
+GEN 4 — HGSS Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 4 — Plate,Iron Plate,#E8E8E8 — #9C9C9C — #686868
+GEN 5 — BW,(notes),#ADADC6 — #525252
+GEN 5 — BW Gems,(notes),#EFEFFF — #77777F — #212121
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#A0AAB0
+GEN 7 — SM,(notes),#AAAABB
+GEN 7 — SM-inium Z,(notes),#EEE6E6 — #8F8FB4 — #626294
+GEN 8 — SwSh Profile,(notes),#90ACB8 — #598EA1 — #454C51
+GEN 8 — SwSh Attack,(notes),#B4F2FE — #79ADC2
+GEN 8 — PokéHome Profile,(notes),#D8E4E4 — #598EA1 — #454C51
+OTHER — PokéGo; Type icon,(notes),#57ABAC — #5497A3 — #52869B
+OTHER — PokéGo; Medal,(notes),#6ABAC3 — #2E8390 — #145466
+OTHER — PMD; Type icon,(notes),#E3F7FF — #73B5E6 — #205380
+OTHER — PMD; Larger icon,(notes),#CDEDFB — #66C6E4 — #21A6B9
+OTHER — Pokémon Conquest,(notes),#ADADAD — #8C9C9C — #4A4A4A
+OTHER — Pokémon Rumble,(notes),#7C7C7C
+OTHER — Pokédex 3D Pro,(notes),#737373 — #616161 — #4E4E4F
+GEN 3-on — TMs,(notes),#D8D8D8 — #A7B3B7 — #519AA3
+GEN 8-on — TRs,(notes),#5A8FA2 — #4B7381 — #3E5C67
+"OTHER — Dex, US Site",(notes),#9EB7B8
+"OTHER — Dex, China Site",(notes),#AAC8F0 — #96B4DC
+"OTHER — Dex, Korea Site",(notes),#B8B8D0 — #9595AD
+GEN 1 — Blended,(notes),#XXXXXX
+GEN 1 — Stadium,(notes),#46B4F0 — #329CE4 — #277BBC
+GEN 2 — Blended,(notes),#XXXXXX — #XXXXXX
+GEN 2 — Stadium 2,(notes),#6EBEFF — #008AFD
+GEN 3 — FRLG,(notes),#6890F0
+GEN 3 — Colosseum,(notes),#CEDEFF — #6B94F7 — #39528C
+GEN 3 — Ecks-Dee,(notes),#6B94EF
+GEN 3-4 — RSE/DPP,(notes),#98D8D8 — #6890F0 — #807870
+GEN 4 — DPP/HGSS,(notes),#C8D8F8 — #6898F8 — #3070C0
+GEN 4 — HGSS Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 4 — Plate,Splash Plate,#98C0F8 — #5C84EC — #3050A0
+GEN 5 — BW,(notes),#399CFF — #425294
+GEN 5 — BW Gems,(notes),#D0F8F8 — #3898F8 — #0050C8
+GEN 5 — BW Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 5 — BW2 Attack,(notes),#XXXXXX — #YYYYYY — #ZZZZZZ
+GEN 6 — XY-ORAS,(notes),#3099F0
+GEN 7 — SM,(notes),#3399FF
+GEN 7 — SM-inium Z,(notes),#E6FFFF — #41ACF0 — #005AC5
+GEN 8 — SwSh Profile,(notes),#8CADE0 — #4E90D6 — #414E59
+GEN 8 — SwSh Attack,(notes),#9EE6FE — #68ABF1
+GEN 8 — PokéHome Profile,(notes),#D6E5EF — #4E90D6 — #414E59
+OTHER — PokéGo; Type icon,(notes),#73C7E5 — #5EA8DC — #4D8FD6
+OTHER — PokéGo; Medal,(notes),#76CEF0 — #5DA9D8 — #1E79CC
+OTHER — PMD; Type icon,(notes),#E1EAFF — #5180F2 — #0336C4
+OTHER — PMD; Larger icon,(notes),#C4E7FE — #4A8BF3 — #0A1DDE
+OTHER — Pokémon Conquest,(notes),#A5DEFF — #5AB5F7 — #3163D6
+OTHER — Pokémon Rumble,(notes),#72A6E4
+OTHER — Pokédex 3D Pro,(notes),#019FDF — #008AD6 — #0161C5
+GEN 3-on — TMs,(notes),#CBE4F4 — #95C7F0 — #49A3EC
+GEN 8-on — TRs,(notes),#4C8ED3 — #4481C4 — #396796
+"OTHER — Dex, US Site",(notes),#4592C4 — #4592C4
+"OTHER — Dex, China Site",(notes),#14B9FF — #0094E5
+"OTHER — Dex, Korea Site",(notes),#00AEFF — #0088C7
